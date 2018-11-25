@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+admin:
+  name: Amora Matiello
+  email: amora@gmail.com
+  password: secret
+  born_at: 2011-01-26
+  admin: true
+
+autor:
+  name: Daniel Lima
+  email: dklima@gmail.com
+  password: secretagain
+  born_at: 1982-10-26
+  admin: false
+
+
+
+
